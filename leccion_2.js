@@ -13,3 +13,8 @@ console.log(typeof edad);
 console.log(typeof promedio);
 console.log(typeof activa);
 
+let resultado = null;
+console.log(resultado);
+resultado = "aprovado";
+console.log(resultado);
+
