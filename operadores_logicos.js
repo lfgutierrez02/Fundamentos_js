@@ -23,3 +23,8 @@ let calificacion = 20;
 let inasistencias = 5;
 
 console.log(calificacion >= 90 || inasistencias <= 3)
+
+// operador not 
+
+console.log(true);
+console.log(false);
